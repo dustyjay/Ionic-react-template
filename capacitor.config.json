@@ -2,7 +2,7 @@
   "appId": "io.ionic.starter",
   "appName": "IonicDemo",
   "bundledWebRuntime": false,
-  "npmClient": "npm",
+  "npmClient": "yarn",
   "webDir": "build",
   "plugins": {
     "SplashScreen": {
